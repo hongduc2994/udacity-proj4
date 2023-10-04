@@ -17,4 +17,4 @@ sleep 5
 # Step 4:
 # Forward the container port to a host
 minikube kubectl -- port-forward udacityproj4 8000:80
-minikube logs --tail udacityproj4
+minikube logs -f udacityproj4
