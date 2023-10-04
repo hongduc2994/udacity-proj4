@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/hongduc2994/udacity-proj4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/hongduc2994/udacity-proj4/tree/master)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
